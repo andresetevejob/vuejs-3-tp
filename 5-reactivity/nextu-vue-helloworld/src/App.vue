@@ -3,8 +3,8 @@ import NextuViewHelloWorld from './views/NextuViewHelloWorld.vue'
 import NextuViewReactive from './views/NextuViewReactive.vue'
 </script>
 <template>
-   <div>Ref</div>
-  <NextuViewHelloWorld />
+   <!--<div>Ref</div>
+  <NextuViewHelloWorld />-->
   <br/>
   <div>Reactive</div>
   <NextuViewReactive/>

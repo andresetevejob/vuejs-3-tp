@@ -1,20 +1,10 @@
 <script setup lang="ts">
-import NextuViewHelloWorld from './views/NextuViewHelloWorld.vue'
-import NextuViewComputedVsMethod from './views/NextuViewComputedVsMethod.vue'
-import NextuViewWatch from './views/NextuViewWatch.vue'
-import NextuViewWatchEffect from './views/NextuViewWatchEffect.vue'
+import NextuRegistrationView from './views/NextuRegistrationView.vue'
+
 </script>
 <template>
-    <!-- <div>Computed</div>
-   <NextuViewHelloWorld />
-   <br/>-->
-    <!-- <div>Computed vs Method</div>
-   <NextuViewComputedVsMethod/>-->
-  <!-- <div>Watch</div>
-   <NextuViewWatch/>-->
-  <br/>
-  <div>Watch Effect</div>
-  <NextuViewWatchEffect/>
+  <div>Hello</div>
+  <NextuRegistrationView/>
 </template>
 <style scoped>
 header {
@@ -79,4 +69,3 @@ nav a:first-of-type {
   }
 }
 </style>
-
